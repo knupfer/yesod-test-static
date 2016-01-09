@@ -18,4 +18,5 @@ library
   build-depends:       base >= 4.7 && < 5
                      , directory
                      , text
+                     , template-haskell
   exposed-modules:     Yesod.Test.Static
